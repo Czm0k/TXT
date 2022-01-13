@@ -1,5 +1,5 @@
 Movie - The bucket list,
 Series - Peaky blinders,
-Food - meet,
+Food - Meet,
 Time of year - summer,
 Coutry - USA.
